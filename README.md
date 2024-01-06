@@ -16,16 +16,16 @@ python3 main.py
 
 ## Visualização da interface 
 
-Imagen inicial do sistema 
+
 ![Inicial](Images/img1.png)
 
-Download em andamento...
+
 ![Download em andamento](Images/img2.png)
 
-Download concluído
+
 ![Download concluído](Images/img3.png)
 
-Verificação dos arquivos baixados 
+ 
 ![Arquivos baixados](Images/img4.png)
 
 
